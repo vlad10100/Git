@@ -1,7 +1,4 @@
-# hello
-# vlad
-# hohohoHoHoho
+Wordle
+tutorial by: Ania Kubow
 
-# master branch
-# nothing more, nothing less
 
